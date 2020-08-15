@@ -28,13 +28,7 @@ end
 # Each officeholder in the list
 class HolderItem < WikipediaOfficeholderRow
   def columns
-    %w[ordinal image name start_date end_date _party _election _cabinet]
-  end
-
-  def end_date_str
-    return '1999-02-05' if name == 'Ion Ciubuc'
-
-    super
+    %w[_color name image start_date end_date _party]
   end
 end
 
