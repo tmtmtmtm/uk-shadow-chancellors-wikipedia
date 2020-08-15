@@ -1,20 +1,6 @@
 [
   {
     "item": {
-      "value": "Q333896",
-      "label": "Robert Carr"
-    },
-    "statement": "Q333896$150EB1BC-DAB5-471E-A910-F01822A19414"
-  },
-  {
-    "item": {
-      "value": "Q7176922",
-      "label": "Peter Shore"
-    },
-    "statement": "Q7176922$9D81DDBD-BDFB-4D02-9F2F-EB65A7C522B9"
-  },
-  {
-    "item": {
       "value": "Q182035",
       "label": "Rab Butler"
     },
@@ -199,6 +185,52 @@
   },
   {
     "item": {
+      "value": "Q332360",
+      "label": "Denis Healey"
+    },
+    "replaces": {
+      "value": "Q323488",
+      "label": "Roy Jenkins"
+    },
+    "replacedBy": {
+      "value": "Q333896",
+      "label": "Robert Carr"
+    },
+    "start": {
+      "value": "1972-04-19T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1974-03-04T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q332360$D31B01F1-40E1-45B7-A660-C8A8913329C0"
+  },
+  {
+    "item": {
+      "value": "Q333896",
+      "label": "Robert Carr"
+    },
+    "replaces": {
+      "value": "Q332360",
+      "label": "Denis Healey"
+    },
+    "replacedBy": {
+      "value": "Q332323",
+      "label": "Geoffrey Howe"
+    },
+    "start": {
+      "value": "1974-03-04T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1975-02-11T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q333896$150EB1BC-DAB5-471E-A910-F01822A19414"
+  },
+  {
+    "item": {
       "value": "Q332323",
       "label": "Geoffrey Howe"
     },
@@ -242,6 +274,52 @@
       "precision": "11"
     },
     "statement": "Q332323$253811E4-7F1D-4D2F-97ED-CB56D1320C26"
+  },
+  {
+    "item": {
+      "value": "Q332360",
+      "label": "Denis Healey"
+    },
+    "replaces": {
+      "value": "Q332323",
+      "label": "Geoffrey Howe"
+    },
+    "replacedBy": {
+      "value": "Q7176922",
+      "label": "Peter Shore"
+    },
+    "start": {
+      "value": "1979-05-04T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1980-12-08T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q332360$48FBFEA4-74D6-44FA-9D55-80A8463EAAD0"
+  },
+  {
+    "item": {
+      "value": "Q7176922",
+      "label": "Peter Shore"
+    },
+    "replaces": {
+      "value": "Q332360",
+      "label": "Denis Healey"
+    },
+    "replacedBy": {
+      "value": "Q333692",
+      "label": "Roy Hattersley"
+    },
+    "start": {
+      "value": "1980-12-08T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1983-10-31T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q7176922$9D81DDBD-BDFB-4D02-9F2F-EB65A7C522B9"
   },
   {
     "item": {
@@ -574,10 +652,33 @@
       "value": "Q749759",
       "label": "Chris Leslie"
     },
+    "replacedBy": {
+      "value": "Q16529268",
+      "label": "Anneliese Dodds"
+    },
     "start": {
       "value": "2015-09-13T00:00:00Z",
       "precision": "11"
     },
+    "end": {
+      "value": "2020-04-04T00:00:00Z",
+      "precision": "11"
+    },
     "statement": "Q694695$5B43DA8A-AB6D-40B2-AF46-F4CEB919C52C"
+  },
+  {
+    "item": {
+      "value": "Q16529268",
+      "label": "Anneliese Dodds"
+    },
+    "replaces": {
+      "value": "Q694695",
+      "label": "John McDonnell"
+    },
+    "start": {
+      "value": "2020-04-05T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q16529268$E83C8D61-9EC2-4C92-A239-0DBA0CE0C2F5"
   }
 ]
